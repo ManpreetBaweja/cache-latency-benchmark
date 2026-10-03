@@ -18,7 +18,7 @@ A full sweep takes 30+ minutes. Run plugged in, on a high-performance power mode
 
 ![Latency vs array size](latency_curve.png)
 
-Machine: `[CPU model]`, 6 cores / 12 threads, native Windows, gcc `-O2`.
+Machine: 6 cores / 12 threads, native Windows, gcc `-O2`.
 Clock during runs ~4 GHz (cycle counts below assume this).
 
 | Level | Documented | Measured | Latency |
